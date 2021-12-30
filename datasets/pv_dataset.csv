@@ -1,4 +1,4 @@
-,Time,avg kW,Date,temp,pressure,humidity,wind_speed,wind_deg,clouds_all,weather_id,weather,clear_sky
+,Time,avg W,Date,temp,pressure,humidity,wind_speed,wind_deg,clouds_all,weather_id,weather,clear_sky
 2020-01-01 01:00:00+01:00,01:00:00,0,2020-01-01,276.0,1033.0,97.0,5.0,120.0,81.0,803.0,broken clouds,0.0
 2020-01-01 01:15:00+01:00,01:15:00,0,2020-01-01,276.0,1033.0,95.75,5.0,122.5,65.75,803.0,broken clouds,0.0
 2020-01-01 01:30:00+01:00,01:30:00,0,2020-01-01,276.0,1033.0,94.5,5.0,125.0,50.5,803.0,broken clouds,0.0
